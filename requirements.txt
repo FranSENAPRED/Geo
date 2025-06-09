@@ -1,7 +1,0 @@
-
-dash
-plotly
-pandas
-numpy
-networkx
-gunicorn
